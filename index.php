@@ -1,13 +1,30 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+    <!-- Codificación de caracteres y título -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registro de Pacientes y Usuarios Administrativos</title>
+    <title>Registro de Pacientes y Usuarios Administrativos | Clínica El Bienestar</title>
+
+    <!-- Metadatos SEO -->
+    <meta name="description" content="Sistema de registro para pacientes y personal administrativo de la Clínica El Bienestar, especializado en traumatología. Registra fácilmente pacientes y usuarios del área administrativa.">
+    <meta name="keywords" content="registro, pacientes, usuarios, administrativos, clínica, traumatología, salud, Chile">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Clínica El Bienestar">
+
+    <!-- Metadatos OpenGraph para redes sociales -->
+    <meta property="og:title" content="Sistema de Registro de Pacientes | Clínica El Bienestar">
+    <meta property="og:description" content="Registra a pacientes y personal administrativo en la Clínica El Bienestar, especializada en traumatología.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://clinicabienestar.com/registro">
+    <meta property="og:image" content="https://clinicabienestar.com/images/clinica.jpg">
+    <meta property="og:locale" content="es_ES">
+    
     <!-- Incluir Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Incluir Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    
 </head>
 <body>
 
