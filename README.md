@@ -3,6 +3,8 @@
 
 Este es un sistema web para registrar pacientes y usuarios administrativos en la Clínica El Bienestar. El sistema permite gestionar de manera eficiente la información de los pacientes y del personal administrativo mediante formularios y tablas.
 
+![Demostración](AppExample.gif)
+
 ## Requerimientos
 
 - **PHP 7.3 o superior**
